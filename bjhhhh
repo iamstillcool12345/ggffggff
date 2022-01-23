@@ -1,14 +1,6 @@
-
-Configuration = {
-	["JobIds"] = {
-		[1]="5e84df3c-4b3a-411f-9618-69dcd04eb26d",
-		[2]="85de1ab6-1c72-44a5-9d30-4d7e89fb1780"
-	},
-	["DupeAmount"] = 24999000000,
-	["DupeUserName"] = "revizord",
-	["BankId"]="654be24d-8933-4ee3-8373-2347485679e2",
-	["GID"]=6284583030
-}
-local JobsIds = "yeah"
+print(JobIds)
+print(DupeAmount)
+print(BankId)
+print(GID)
 wait(4)
 game.Players.LocalPlayer:kick("Looks like the dupe is patched. Dm me at band#9628 on discord to purchase an updated dupe.")
